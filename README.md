@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm Duke Avrit
 
-# And you...
-# Are reading the profile of a human familiar with
+### And you...
+### Are reading the profile of a human familiar with
 ⚡C
 ⚡HTML
 ⚡CSS
@@ -11,7 +11,7 @@
 ⚡Python (I can do hello world)
 
 ## It must be noted that the Duke is currently on a sabbatical for a duration of 'n' seconds
-# (Where n is an undefined variable!)
+### (Where n is an undefined variable!)
 <!--
 **DukeAvrit/DukeAvrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
